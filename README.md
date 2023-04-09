@@ -1,2 +1,2 @@
 # Finish-Project
-Horror Game
+Scary-Game
